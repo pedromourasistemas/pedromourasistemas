@@ -1,8 +1,24 @@
-### Falaa galeraa 👋
+## Falaa galeraa 👋
 
-Meu nome é Pedro Moura, tenho 29 anos e estou na área de tecnologia a 10 anos. Trabalho como Android Developer no www.socialbank.com.br 
+Meu nome é Pedro Moura, tenho 29 anos e estou na área de tecnologia a 10 anos. Trabalho como Android Developer no <a href='www.socialbank.com.br'>Social Bank</a>.
 
+:neckbeard: Estou estudando Android, Inglês e Inteligência Emocional.
 
+:heart: Apaixonado por:
+
+<ul>
+  <li>Android</li>
+  <li>PHP</li>
+  <li>Ping Pong</li>
+  <li>Futebol</li>
+  <li>Livros</li>
+  <li>Minha Pastor Alemão - Ruby :dog: </li>
+</ul>
+
+:mag: Como me encontrar: 
+
+<a href='https://twitter.com/pedromoura90'>Twitter</a> </br>
+<a href='https://www.linkedin.com/in/pedromourasistemas'>Linkedin</a>
 
 <!--
 **pedromourasistemas/pedromourasistemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
