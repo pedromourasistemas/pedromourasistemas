@@ -1,4 +1,8 @@
-### Hi there 👋
+### Falaa galeraa 👋
+
+Meu nome é Pedro Moura, tenho 29 anos e estou na área de tecnologia a 10 anos. Trabalho como Android Developer no www.socialbank.com.br 
+
+
 
 <!--
 **pedromourasistemas/pedromourasistemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
