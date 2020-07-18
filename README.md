@@ -1,10 +1,10 @@
 ## Falaa galeraa 👋
 
-Meu nome é Pedro Moura, tenho 29 anos e estou na área de tecnologia a 10 anos. Trabalho como Android Developer no <a href='www.socialbank.com.br'>Social Bank</a>.
+Meu nome é Pedro Moura, tenho 29 anos e estou na área de tecnologia a 10 anos. Trabalho como Android Developer no Social Bank. 
 
 :neckbeard: Estou estudando Android, Inglês e Inteligência Emocional.
 
-:heart: Apaixonado por:
+:heart:  Apaixonado por:
 
 <ul>
   <li>Android</li>
@@ -15,7 +15,7 @@ Meu nome é Pedro Moura, tenho 29 anos e estou na área de tecnologia a 10 anos.
   <li>Minha Pastor Alemão - Ruby :dog: </li>
 </ul>
 
-:mag: Como me encontrar: 
+:mag:  Como me encontrar: 
 
 <a href='https://twitter.com/pedromoura90'>Twitter</a> </br>
 <a href='https://www.linkedin.com/in/pedromourasistemas'>Linkedin</a>
