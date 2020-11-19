@@ -8,10 +8,11 @@ Já fui co-founder de uma startup por quase 4 anos e estou presente na comunidad
 :heart:  Apaixonado por:
 
 <ul>
-  <li>Android</li>
+  <li>Android Nativo</li>
   <li>PHP</li>
   <li>Ping Pong</li>
   <li>Futebol</li>
+  <li>Mountain Bike</li>
   <li>Livros</li>
   <li>Minha Pastor Alemão - Ruby :dog: </li>
 </ul>
