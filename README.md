@@ -1,6 +1,6 @@
 ## Falaa galeraa 👋
 
-Meu nome é Pedro Moura, tenho 30 anos e estou na área de tecnologia a 10 anos. Trabalho como Android Developer no Social Bank. 
+Meu nome é Pedro Moura, tenho 30 anos e estou na área de tecnologia a 10 anos. Trabalho como Android Developer. 
 Já fui co-founder de uma startup por quase 4 anos e estou presente na comunidade de empreendedorismo, inovação e tecnologia a 5 anos, contribuindo e evoluindo sempre com todos e para todos. Sou um dos líderes da comunidade GDG Uberlândia, facilitando os meetups e contribuindo. 
 
 :neckbeard: Estou estudando Android, Inglês e Inteligência Emocional.
