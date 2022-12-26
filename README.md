@@ -1,6 +1,6 @@
 ## Falaa galeraa 👋
 
-Meu nome é Pedro Moura, tenho 30 anos e estou na área de tecnologia a 12 anos. Trabalho como Android Developer. 
+Meu nome é Pedro Moura, tenho 32 anos e estou na área de tecnologia a 12 anos. Trabalho como Android Developer. 
 Já fui co-founder de uma startup por quase 4 anos e estou presente na comunidade de empreendedorismo, inovação e tecnologia a 5 anos, contribuindo e evoluindo sempre com todos e para todos.
 
 :neckbeard: Estou estudando Android, Inglês e Inteligência Emocional.
@@ -20,7 +20,6 @@ Já fui co-founder de uma startup por quase 4 anos e estou presente na comunidad
 
 :mag:  Como me encontrar: 
 
-<a href='https://twitter.com/pedromoura90'>Twitter</a> </br>
 <a href='https://www.linkedin.com/in/pedromourasistemas'>Linkedin</a>
 
 <!--
